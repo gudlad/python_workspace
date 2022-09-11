@@ -1,0 +1,10 @@
+def convert(c):
+    F = (9/5)*c + 32
+    return (F)
+
+try:
+    cel = float(input("Enter the temperature: "))
+    Fah = convert(cel)
+    print ("The temperature in Fahrenheit is ", Fah)
+except:
+    print ("Enter the Numeric value")
