@@ -1,3 +1,3 @@
 # python_workspace
 
-all things i do in python will be stored here
+common folder for all python files
